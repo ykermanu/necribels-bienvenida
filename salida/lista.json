@@ -1,5 +1,150 @@
 {
  "fuente": "necribels:bienvenida",
- "sha1": "21a82f0021bcb03790af8fcb2fa8b93a5e62479c",
- "imagenes": []
+ "sha1": "6f4db2129c1d09133ef31831958825e0462b746c",
+ "imagenes": [
+  {
+   "archivo": "foto_01.jpg",
+   "caracter": "",
+   "ancho": 256,
+   "alto": 201
+  },
+  {
+   "archivo": "foto_02.jpg",
+   "caracter": "",
+   "ancho": 143,
+   "alto": 256
+  },
+  {
+   "archivo": "foto_03.jpg",
+   "caracter": "",
+   "ancho": 196,
+   "alto": 256
+  },
+  {
+   "archivo": "foto_04.jpg",
+   "caracter": "",
+   "ancho": 256,
+   "alto": 158
+  },
+  {
+   "archivo": "foto_05.jpg",
+   "caracter": "",
+   "ancho": 217,
+   "alto": 256
+  },
+  {
+   "archivo": "foto_06.jpg",
+   "caracter": "",
+   "ancho": 256,
+   "alto": 175
+  },
+  {
+   "archivo": "foto_07.jpg",
+   "caracter": "",
+   "ancho": 196,
+   "alto": 256
+  },
+  {
+   "archivo": "foto_08.jpg",
+   "caracter": "",
+   "ancho": 256,
+   "alto": 192
+  },
+  {
+   "archivo": "foto_09.jpg",
+   "caracter": "",
+   "ancho": 256,
+   "alto": 219
+  },
+  {
+   "archivo": "foto_10.jpg",
+   "caracter": "",
+   "ancho": 256,
+   "alto": 200
+  },
+  {
+   "archivo": "foto_11.jpg",
+   "caracter": "",
+   "ancho": 256,
+   "alto": 192
+  },
+  {
+   "archivo": "foto_12.jpg",
+   "caracter": "",
+   "ancho": 206,
+   "alto": 216
+  },
+  {
+   "archivo": "foto_13.jpg",
+   "caracter": "",
+   "ancho": 190,
+   "alto": 256
+  },
+  {
+   "archivo": "foto_14.jpg",
+   "caracter": "",
+   "ancho": 174,
+   "alto": 256
+  },
+  {
+   "archivo": "foto_15.jpg",
+   "caracter": "",
+   "ancho": 252,
+   "alto": 256
+  },
+  {
+   "archivo": "foto_16.jpg",
+   "caracter": "",
+   "ancho": 118,
+   "alto": 256
+  },
+  {
+   "archivo": "foto_17.jpg",
+   "caracter": "",
+   "ancho": 256,
+   "alto": 213
+  },
+  {
+   "archivo": "foto_18.jpg",
+   "caracter": "",
+   "ancho": 203,
+   "alto": 256
+  },
+  {
+   "archivo": "foto_19.jpg",
+   "caracter": "",
+   "ancho": 207,
+   "alto": 256
+  },
+  {
+   "archivo": "foto_20.jpg",
+   "caracter": "",
+   "ancho": 256,
+   "alto": 237
+  },
+  {
+   "archivo": "foto_21.jpg",
+   "caracter": "",
+   "ancho": 182,
+   "alto": 256
+  },
+  {
+   "archivo": "foto_22.jpg",
+   "caracter": "",
+   "ancho": 204,
+   "alto": 256
+  },
+  {
+   "archivo": "foto_23.jpg",
+   "caracter": "",
+   "ancho": 256,
+   "alto": 240
+  },
+  {
+   "archivo": "foto_24.jpg",
+   "caracter": "",
+   "ancho": 169,
+   "alto": 256
+  }
+ ]
 }
